@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![rossby-vis — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # rossby-vis
 
 [![Build Status](https://github.com/mountain/rossby-vis/actions/workflows/ci.yml/badge.svg)](https://github.com/mountain/rossby-vis/actions)
@@ -203,3 +207,18 @@ cargo build --release
 ## License
 
 See the [LICENSE](LICENSE) file for details.
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:selected-result -->
+
+## 已有结果展示
+
+![仓库已有的 earth 全球风场可视化预览，展示球面风速着色与流线；不是本次生成的预报。](assets/readme/result.png)
+
+仓库已有的 earth 全球风场可视化预览，展示球面风速着色与流线；不是本次生成的预报。 该图为仓库已有上游示例，保留原有来源；本次仅整理展示，未重新运行。 [查看来源](https://github.com/GISWLH/rossby-vis/blob/main/public/preview.png)。
+
+<!-- /readme-visual-refresh:selected-result -->
